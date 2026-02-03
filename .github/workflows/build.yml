@@ -31,32 +31,3 @@ jobs:
         name: app-debug
         path: app/build/outputs/apk/debug/app-debug.apk
         retention-days: 30
-
-    - name: Get current date
-      id: date
-      run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
-
-    - name: Create Release
-      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
-      uses: softprops/action-gh-release@v1
-      with:
-        tag_name: v${{ steps.date.outputs.date }}
-        name: 猜数字求解器 ${{ steps.date.outputs.date }}
-        draft: false
-        prerelease: false
-        files: app/build/outputs/apk/debug/app-debug.apk
-        body: |
-          ## 猜数字求解器 Android App
-
-          自动构建的 APK 文件。
-
-          ### 功能
-          - 逐步输入猜测历史
-          - 自动计算下一步最优猜测
-          - 显示剩余可能密码
-          - 使用预计算数据，速度快
-
-          ### 安装
-          下载 `app-debug.apk` 到手机，直接安装即可。
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
