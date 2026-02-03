@@ -1,0 +1,1020 @@
+{
+  "layer1": {
+    "0000": {
+      "next_guess": "0045",
+      "remaining_count": 6,
+      "compute_time": 0.06412959098815918
+    },
+    "1000": {
+      "next_guess": "0245",
+      "remaining_count": 72,
+      "compute_time": 28.845044374465942
+    },
+    "2000": {
+      "next_guess": "1445",
+      "remaining_count": 120,
+      "compute_time": 140.95853304862976
+    },
+    "1100": {
+      "next_guess": "1524",
+      "remaining_count": 84,
+      "compute_time": 31.342976093292236
+    },
+    "1200": {
+      "next_guess": "0414",
+      "remaining_count": 228,
+      "compute_time": 304.4161283969879
+    },
+    "2200": {
+      "next_guess": "4034",
+      "remaining_count": 300,
+      "compute_time": 410.93195247650146
+    },
+    "1110": {
+      "next_guess": "0245",
+      "remaining_count": 20,
+      "compute_time": 0.501091718673706
+    },
+    "1120": {
+      "next_guess": "1433",
+      "remaining_count": 48,
+      "compute_time": 9.987002611160278
+    },
+    "1220": {
+      "next_guess": "0035",
+      "remaining_count": 132,
+      "compute_time": 147.77747106552124
+    },
+    "2220": {
+      "next_guess": "1401",
+      "remaining_count": 136,
+      "compute_time": 152.25700426101685
+    },
+    "1111": {
+      "next_guess": null,
+      "remaining_count": 1,
+      "status": "solved"
+    },
+    "1122": {
+      "next_guess": "0112",
+      "remaining_count": 6,
+      "compute_time": 0.04439353942871094
+    },
+    "1222": {
+      "next_guess": "0012",
+      "remaining_count": 8,
+      "compute_time": 0.07034945487976074
+    },
+    "2222": {
+      "next_guess": "0012",
+      "remaining_count": 9,
+      "compute_time": 0.10844683647155762
+    }
+  },
+  "layer2": {
+    "0123_0000": {
+      "0000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1100": {
+        "next_guess": "4545",
+        "remaining_count": 2,
+        "compute_time": 0.0010006427764892578
+      },
+      "1200": {
+        "next_guess": "4455",
+        "remaining_count": 2,
+        "compute_time": 0.0
+      },
+      "2200": {
+        "next_guess": "4554",
+        "remaining_count": 2,
+        "compute_time": 0.0
+      },
+      "1110": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1120": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1220": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2220": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      }
+    },
+    "0123_1000": {
+      "0000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1000": {
+        "next_guess": "1155",
+        "remaining_count": 6,
+        "compute_time": 0.049094438552856445
+      },
+      "2000": {
+        "next_guess": "5353",
+        "remaining_count": 6,
+        "compute_time": 0.056281089782714844
+      },
+      "1100": {
+        "next_guess": "0044",
+        "remaining_count": 8,
+        "compute_time": 0.054780006408691406
+      },
+      "1200": {
+        "next_guess": "0155",
+        "remaining_count": 13,
+        "compute_time": 0.14786577224731445
+      },
+      "2200": {
+        "next_guess": "4533",
+        "remaining_count": 15,
+        "compute_time": 0.3135702610015869
+      },
+      "1110": {
+        "next_guess": "0045",
+        "remaining_count": 3,
+        "compute_time": 0.0009996891021728516
+      },
+      "1120": {
+        "next_guess": "0405",
+        "remaining_count": 5,
+        "compute_time": 0.00096893310546875
+      },
+      "1220": {
+        "next_guess": "0554",
+        "remaining_count": 10,
+        "compute_time": 0.12161111831665039
+      },
+      "2220": {
+        "next_guess": "5422",
+        "remaining_count": 6,
+        "compute_time": 0.0865778923034668
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      }
+    },
+    "0123_2000": {
+      "0000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1000": {
+        "next_guess": "3355",
+        "remaining_count": 5,
+        "compute_time": 0.0010056495666503906
+      },
+      "2000": {
+        "next_guess": "5050",
+        "remaining_count": 4,
+        "compute_time": 0.0
+      },
+      "1100": {
+        "next_guess": "5345",
+        "remaining_count": 14,
+        "compute_time": 0.2450549602508545
+      },
+      "1200": {
+        "next_guess": "0540",
+        "remaining_count": 23,
+        "compute_time": 2.4178929328918457
+      },
+      "2200": {
+        "next_guess": "5054",
+        "remaining_count": 20,
+        "compute_time": 0.5632405281066895
+      },
+      "1110": {
+        "next_guess": "0141",
+        "remaining_count": 6,
+        "compute_time": 0.06844449043273926
+      },
+      "1120": {
+        "next_guess": "4405",
+        "remaining_count": 11,
+        "compute_time": 0.11280560493469238
+      },
+      "1220": {
+        "next_guess": "5404",
+        "remaining_count": 20,
+        "compute_time": 0.5129232406616211
+      },
+      "2220": {
+        "next_guess": "0254",
+        "remaining_count": 8,
+        "compute_time": 0.07460451126098633
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": "1544",
+        "remaining_count": 4,
+        "compute_time": 0.0
+      },
+      "1222": {
+        "next_guess": "4451",
+        "remaining_count": 3,
+        "compute_time": 0.0
+      },
+      "2222": {
+        "next_guess": "4514",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      }
+    },
+    "0123_1100": {
+      "0000": {
+        "next_guess": "0033",
+        "remaining_count": 2,
+        "compute_time": 0.0009853839874267578
+      },
+      "1000": {
+        "next_guess": "0035",
+        "remaining_count": 8,
+        "compute_time": 0.06419539451599121
+      },
+      "2000": {
+        "next_guess": "0051",
+        "remaining_count": 10,
+        "compute_time": 0.08890819549560547
+      },
+      "1100": {
+        "next_guess": "0055",
+        "remaining_count": 10,
+        "compute_time": 0.08210158348083496
+      },
+      "1200": {
+        "next_guess": "0242",
+        "remaining_count": 18,
+        "compute_time": 0.22231507301330566
+      },
+      "2200": {
+        "next_guess": "0051",
+        "remaining_count": 16,
+        "compute_time": 0.24758195877075195
+      },
+      "1110": {
+        "next_guess": "0524",
+        "remaining_count": 2,
+        "compute_time": 0.0
+      },
+      "1120": {
+        "next_guess": "2124",
+        "remaining_count": 4,
+        "compute_time": 0.0010018348693847656
+      },
+      "1220": {
+        "next_guess": "0052",
+        "remaining_count": 9,
+        "compute_time": 0.07785749435424805
+      },
+      "2220": {
+        "next_guess": "0145",
+        "remaining_count": 3,
+        "compute_time": 0.0
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": "5124",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1222": {
+        "next_guess": "4125",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "2222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      }
+    },
+    "0123_1200": {
+      "0000": {
+        "next_guess": "2553",
+        "remaining_count": 16,
+        "compute_time": 0.45504045486450195
+      },
+      "1000": {
+        "next_guess": "0035",
+        "remaining_count": 34,
+        "compute_time": 4.4608330726623535
+      },
+      "2000": {
+        "next_guess": "2155",
+        "remaining_count": 48,
+        "compute_time": 10.458248138427734
+      },
+      "1100": {
+        "next_guess": "0051",
+        "remaining_count": 22,
+        "compute_time": 1.6950743198394775
+      },
+      "1200": {
+        "next_guess": "2142",
+        "remaining_count": 36,
+        "compute_time": 4.542467832565308
+      },
+      "2200": {
+        "next_guess": "2145",
+        "remaining_count": 34,
+        "compute_time": 5.405831336975098
+      },
+      "1110": {
+        "next_guess": "0014",
+        "remaining_count": 6,
+        "compute_time": 0.056185245513916016
+      },
+      "1120": {
+        "next_guess": "0042",
+        "remaining_count": 7,
+        "compute_time": 0.07337450981140137
+      },
+      "1220": {
+        "next_guess": "2144",
+        "remaining_count": 13,
+        "compute_time": 0.21993422508239746
+      },
+      "2220": {
+        "next_guess": "5140",
+        "remaining_count": 8,
+        "compute_time": 0.10857057571411133
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": "0441",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1222": {
+        "next_guess": "4104",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "2222": {
+        "next_guess": "4140",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      }
+    },
+    "0123_2200": {
+      "0000": {
+        "next_guess": "1255",
+        "remaining_count": 19,
+        "compute_time": 2.3523478507995605
+      },
+      "1000": {
+        "next_guess": "1505",
+        "remaining_count": 48,
+        "compute_time": 16.10974669456482
+      },
+      "2000": {
+        "next_guess": "1531",
+        "remaining_count": 52,
+        "compute_time": 15.70472002029419
+      },
+      "1100": {
+        "next_guess": "1504",
+        "remaining_count": 31,
+        "compute_time": 6.011075973510742
+      },
+      "1200": {
+        "next_guess": "2054",
+        "remaining_count": 48,
+        "compute_time": 13.072704076766968
+      },
+      "2200": {
+        "next_guess": "1350",
+        "remaining_count": 43,
+        "compute_time": 12.619511127471924
+      },
+      "1110": {
+        "next_guess": "4035",
+        "remaining_count": 6,
+        "compute_time": 0.12519574165344238
+      },
+      "1120": {
+        "next_guess": "4432",
+        "remaining_count": 14,
+        "compute_time": 0.3887155055999756
+      },
+      "1220": {
+        "next_guess": "2044",
+        "remaining_count": 22,
+        "compute_time": 4.140084743499756
+      },
+      "2220": {
+        "next_guess": "3405",
+        "remaining_count": 10,
+        "compute_time": 0.22728681564331055
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": "3044",
+        "remaining_count": 3,
+        "compute_time": 0.0009989738464355469
+      },
+      "1222": {
+        "next_guess": "3404",
+        "remaining_count": 2,
+        "compute_time": 0.0010001659393310547
+      },
+      "2222": {
+        "next_guess": "3440",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      }
+    },
+    "0123_1110": {
+      "0000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1000": {
+        "next_guess": "0103",
+        "remaining_count": 3,
+        "compute_time": 0.0013391971588134766
+      },
+      "2000": {
+        "next_guess": "1123",
+        "remaining_count": 3,
+        "compute_time": 0.001081705093383789
+      },
+      "1100": {
+        "next_guess": "0143",
+        "remaining_count": 2,
+        "compute_time": 0.0
+      },
+      "1200": {
+        "next_guess": "0102",
+        "remaining_count": 6,
+        "compute_time": 0.06665539741516113
+      },
+      "2200": {
+        "next_guess": "4123",
+        "remaining_count": 2,
+        "compute_time": 0.0
+      },
+      "1110": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1120": {
+        "next_guess": "0125",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1220": {
+        "next_guess": "0124",
+        "remaining_count": 3,
+        "compute_time": 0.0
+      },
+      "2220": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      }
+    },
+    "0123_1120": {
+      "0000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1000": {
+        "next_guess": "0253",
+        "remaining_count": 5,
+        "compute_time": 0.001003265380859375
+      },
+      "2000": {
+        "next_guess": "0051",
+        "remaining_count": 11,
+        "compute_time": 0.17131495475769043
+      },
+      "1100": {
+        "next_guess": "1523",
+        "remaining_count": 4,
+        "compute_time": 0.00099945068359375
+      },
+      "1200": {
+        "next_guess": "0035",
+        "remaining_count": 12,
+        "compute_time": 0.16857147216796875
+      },
+      "2200": {
+        "next_guess": "0142",
+        "remaining_count": 6,
+        "compute_time": 0.0580296516418457
+      },
+      "1110": {
+        "next_guess": "1423",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1120": {
+        "next_guess": "1323",
+        "remaining_count": 3,
+        "compute_time": 0.0
+      },
+      "1220": {
+        "next_guess": "2143",
+        "remaining_count": 5,
+        "compute_time": 0.0
+      },
+      "2220": {
+        "next_guess": "3124",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      }
+    },
+    "0123_1220": {
+      "0000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1000": {
+        "next_guess": "2021",
+        "remaining_count": 17,
+        "compute_time": 0.4727132320404053
+      },
+      "2000": {
+        "next_guess": "1324",
+        "remaining_count": 26,
+        "compute_time": 4.973154306411743
+      },
+      "1100": {
+        "next_guess": "0254",
+        "remaining_count": 12,
+        "compute_time": 0.1739518642425537
+      },
+      "1200": {
+        "next_guess": "0314",
+        "remaining_count": 23,
+        "compute_time": 3.172839641571045
+      },
+      "2200": {
+        "next_guess": "2304",
+        "remaining_count": 26,
+        "compute_time": 7.446621656417847
+      },
+      "1110": {
+        "next_guess": "0031",
+        "remaining_count": 3,
+        "compute_time": 0.0010094642639160156
+      },
+      "1120": {
+        "next_guess": "0230",
+        "remaining_count": 5,
+        "compute_time": 0.003000020980834961
+      },
+      "1220": {
+        "next_guess": "0302",
+        "remaining_count": 13,
+        "compute_time": 0.24408650398254395
+      },
+      "2220": {
+        "next_guess": "2503",
+        "remaining_count": 7,
+        "compute_time": 0.13751864433288574
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      }
+    },
+    "0123_2220": {
+      "0000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1000": {
+        "next_guess": "1352",
+        "remaining_count": 22,
+        "compute_time": 4.736584186553955
+      },
+      "2000": {
+        "next_guess": "2350",
+        "remaining_count": 20,
+        "compute_time": 1.4840505123138428
+      },
+      "1100": {
+        "next_guess": "2001",
+        "remaining_count": 19,
+        "compute_time": 0.7935373783111572
+      },
+      "1200": {
+        "next_guess": "1342",
+        "remaining_count": 24,
+        "compute_time": 5.228686571121216
+      },
+      "2200": {
+        "next_guess": "2025",
+        "remaining_count": 21,
+        "compute_time": 3.062528610229492
+      },
+      "1110": {
+        "next_guess": "2401",
+        "remaining_count": 5,
+        "compute_time": 0.001008749008178711
+      },
+      "1120": {
+        "next_guess": "1430",
+        "remaining_count": 6,
+        "compute_time": 0.056681156158447266
+      },
+      "1220": {
+        "next_guess": "1340",
+        "remaining_count": 14,
+        "compute_time": 0.2994508743286133
+      },
+      "2220": {
+        "next_guess": "2014",
+        "remaining_count": 5,
+        "compute_time": 0.0014095306396484375
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      }
+    },
+    "0123_1122": {
+      "0000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1100": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1200": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2200": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1110": {
+        "next_guess": "0132",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1120": {
+        "next_guess": "0213",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1220": {
+        "next_guess": "0321",
+        "remaining_count": 3,
+        "compute_time": 0.001291036605834961
+      },
+      "2220": {
+        "next_guess": "1023",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      }
+    },
+    "0123_1222": {
+      "0000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1100": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1200": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2200": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1110": {
+        "next_guess": "0312",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1120": {
+        "next_guess": "2013",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1220": {
+        "next_guess": "0231",
+        "remaining_count": 3,
+        "compute_time": 0.0011522769927978516
+      },
+      "2220": {
+        "next_guess": "1203",
+        "remaining_count": 3,
+        "compute_time": 0.0
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      }
+    },
+    "0123_2222": {
+      "0000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2000": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1100": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1200": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2200": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1110": {
+        "next_guess": "3012",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1120": {
+        "next_guess": "1032",
+        "remaining_count": 1,
+        "compute_time": 0.0
+      },
+      "1220": {
+        "next_guess": "1302",
+        "remaining_count": 4,
+        "compute_time": 0.0009996891021728516
+      },
+      "2220": {
+        "next_guess": "1230",
+        "remaining_count": 3,
+        "compute_time": 0.003107786178588867
+      },
+      "1111": {
+        "next_guess": null,
+        "remaining_count": 1,
+        "status": "solved"
+      },
+      "1122": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "1222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      },
+      "2222": {
+        "next_guess": null,
+        "remaining_count": 0,
+        "status": "invalid"
+      }
+    }
+  },
+  "metadata": {
+    "algorithm": "depth=2 balanced",
+    "initial_guess": "0123",
+    "total_layer1": 14,
+    "computed_layer2": 13,
+    "total_layer2": 13,
+    "last_update": "2026-01-09 17:25:53"
+  }
+}

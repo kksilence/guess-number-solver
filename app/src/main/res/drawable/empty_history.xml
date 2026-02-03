@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <path
+        android:fillColor="@color/gray_dark"
+        android:pathData="M100,60 m-30,0 a30,30 0 1,1 60,0 a30,30 0 1,1 -60,0"
+        android:strokeWidth="2"
+        android:strokeColor="@color/gray_dark" />
+
+    <path
+        android:fillColor="@color/gray_dark"
+        android:pathData="M60,110 L60,150 L80,150 L80,130 L100,130 L100,150 L120,150 L120,110 Z" />
+
+    <text
+        android:x="100"
+        android:y="180"
+        android:textSize="14"
+        android:fillColor="@color/gray_dark"
+        android:text="还没有猜测记录" />
+
+</vector>

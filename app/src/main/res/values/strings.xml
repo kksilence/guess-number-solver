@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">猜数字求解器</string>
+    <string name="guess_hint">输入4位猜测 (0-5)</string>
+    <string name="feedback_hint">输入4位反馈 (0/1/2)</string>
+    <string name="add_button">添加</string>
+    <string name="clear_all">清空全部</string>
+    <string name="solve_button">计算下一步</string>
+    <string name="history_title">猜测历史</string>
+    <string name="suggestion_title">建议</string>
+    <string name="remaining_title">剩余密码</string>
+    <string name="empty_history">还没有猜测记录</string>
+    <string name="calculating">计算中...</string>
+    <string name="error_invalid_input">请输入4位数字</string>
+    <string name="error_invalid_feedback">反馈只能是0、1、2组成</string>
+    <string name="error_no_candidates">没有找到符合的密码</string>
+    <string name="solved">已找到答案！</string>
+</resources>
